@@ -1,0 +1,18 @@
+body {
+  background-color: darkgoldenrod;
+  color: white;
+}
+
+ul,
+li {
+  list-style-type: none;
+}
+
+header {
+  background-color: darkorange;
+}
+
+footer {
+  background-color: yellowgreen;
+}
+
